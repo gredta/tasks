@@ -1,3 +1,2 @@
 # tasks
-Task Manager Application built with JavaFX. Made to organize our lives using simple functions to add and delete tasks.
-
+A Task Manager Application built to make my life easier - simple functions to add, store, and delete tasks.
